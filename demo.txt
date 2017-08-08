@@ -2,4 +2,7 @@ this is my t Git
 
 this is second content;
 
+Git is a distributed version control system.
+
 third
+Git tracks changes.
